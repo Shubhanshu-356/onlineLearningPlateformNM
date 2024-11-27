@@ -1,7 +1,7 @@
 
 # Online Learning Platform
 
-This is an Online Learning Platform built using [mention technologies used like HTML, CSS, JavaScript, Node.js, etc.].
+This is an Online Learning Platform built using [mention technologies used like HTML, CSS, JavaScript, Node.js, etc.
 
 ## Features
 
