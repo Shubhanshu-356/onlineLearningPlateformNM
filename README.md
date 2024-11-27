@@ -63,11 +63,3 @@ This is an Online Learning Platform built using [mention technologies used like 
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [List any credits, libraries, or tools you used]
